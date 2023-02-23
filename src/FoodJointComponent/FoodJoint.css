@@ -1,0 +1,16 @@
+#bell{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 60rem;
+    
+}
+#cart{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 72rem;
+    margin-top: -3rem;
+    
+}
+*{
+    background-color: lightgray;
+}
